@@ -14,6 +14,8 @@
   - 🔭 I’m currently studying Systems Analysis and Development at [SPTECH SCHOOL](https://www.sptech.school/)
 
   - 🌱 I'm currently learning [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [ReactJS](https://reactjs.org/) | [NodeJS](https://nodejs.org/en/)
+   
+  - ⚡ Future Backend Developer
   
 </div>
 
