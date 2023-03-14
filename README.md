@@ -41,8 +41,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="520em" src="https://github-readme-stats.vercel.app/api?username=inaciofigueiredo13&show_icons=true&theme=vision-friendly-dark" alt="inaciofigueiredo's stats"/>
-<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciofigueiredo13&layout=compact&theme=vision-friendly-dark" alt="inaciofigueiredo's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=inaciofigueiredo13&show_icons=true&theme=vision-friendly-dark" alt="inaciofigueiredo's stats"/> <br>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciofigueiredo13&layout=compact&theme=vision-friendly-dark" alt="inaciofigueiredo's most languages"/>
 </p>
 
 <br><br>
