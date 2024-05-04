@@ -30,16 +30,15 @@
 ## 📱 &nbsp;Contact me
 
 <div style="display: inline-block">
-  
   <a href="mailto:inaciofigueiredo13@gmail.com"> 
-  <img align="center" alt="gmail" width="80%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="center" alt="gmail" width=95rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="https://www.linkedin.com/in/inaciofigueiredo/"> 
-   <img align="center" width="80%" alt="linkedl" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img align="center" width=95rem alt="linkedl" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <a href="https://discordapp.com/users/995769235093586060"> 
-   <img align="center" alt="discord" width="80%" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+   <img align="center" alt="discord" width=95rem src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
  </div>
